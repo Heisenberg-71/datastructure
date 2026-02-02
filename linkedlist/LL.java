@@ -110,7 +110,20 @@ public class LL {
         }
         return null;
     }
-
+	public Node reverseList() {
+        if(head==null || head.next==null){
+            return head;
+        }
+        Node prev=null;
+        Node cur=head;
+        while(cur!=null){
+            ListNode next=cur.next;
+            cur.next=prev;
+            prev=cur;
+            cur=next;
+        }
+        return prev;
+    }
     public void display() {
         Node temp = head;
         while (temp != null) {

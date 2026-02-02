@@ -1,24 +1,17 @@
 import java.util.*;
 public class main{
-	static int[] bubbleSort(int[] arr,int r,int c){
-		if(r==0){
-			return arr;
-		}
-		if(c<r){
-			if(arr[c]>arr[c+1]){
-				int temp=arr[c];
-				arr[c]=arr[c+1];
-				arr[c+1]=temp;
-				
-			}
-			bubbleSort(arr,r,c+1);
-		}
-		bubbleSort(arr,r-1,0);
-		
-		return arr;
-	}
+	
 	public static void main(String args[]){
-		int[] arr={1,4,2,3,84,2,12,3,4,5,6,7};
-		System.out.println(Arrays.toString(bubbleSort(arr,arr.length-1,0)));
+		int c=0;
+		int n=13;
+		c+=n/25;
+		n=n%25;
+		c+=n/10;
+		n=n%10;
+		c+=n/5;
+		n=n%5;
+		c+=n/1;
+		n=n%1;
+		System.out.println(c);
 	}
 }

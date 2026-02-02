@@ -16,6 +16,7 @@ public class Main {
         list.display();
         System.out.println(list.deleteFirst());
         System.out.println(list.deleteLast());
+		list.reverseList();
         list.display();
        // System.out.println(list.find( 3));
         list.display();
