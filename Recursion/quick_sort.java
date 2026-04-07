@@ -25,12 +25,13 @@ public class main{
 				e--;
 			}
 		}
+		System.out.println(Arrays.toString(arr));
 		quicksort(arr,low,e);
 		quicksort(arr,s,high);
 	}
 	
 	public static void main(String args[]){
-		int[] arr={5,4,46,3,100,2,1};
+		int[] arr={45 ,78 ,12 ,49, 11 ,6};
 		quicksort(arr,0,arr.length-1);
 		System.out.println(Arrays.toString(arr));
 	}
