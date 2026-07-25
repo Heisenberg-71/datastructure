@@ -1,5 +1,5 @@
 import java.util.*;
-public class main{
+public class Binary_Search{
 	static int binarySearch(int[] arr,int target,int start,int end){
 		if(start>end){
 			return -1;

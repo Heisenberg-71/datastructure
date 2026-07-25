@@ -1,5 +1,5 @@
 import java.util.*;
-public class main{
+public class Sum_of_Digits{
 	static int sum(int n){
 		if(n==0){
 			return 0;

@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="28c15042-0433-4a20-9004-5773a1070683" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Reverse_String.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Fibonacci.java" beforeDir="false" afterPath="$PROJECT_DIR$/Fibonacci.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,7 +20,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="PhpWorkspaceProjectConfiguration" interpreter_name="$USER_HOME$/php-8.3.8-nts-Win32-vs16-x64/php.exe" />
   <component name="ProjectColorInfo">{
@@ -34,14 +33,14 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
-    &quot;Application.Reverse_String.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.Reverse_String.executor&quot;: &quot;Run&quot;,
     &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;Suganth&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/git/Java/Practice/dsa/Recursion&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/java/git/datastructure/Recursion&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
@@ -78,6 +77,8 @@
       <workItem from="1768966008474" duration="121000" />
       <workItem from="1768966180597" duration="112000" />
       <workItem from="1768970593858" duration="45000" />
+      <workItem from="1776056127277" duration="100000" />
+      <workItem from="1776225905888" duration="39000" />
     </task>
     <servers />
   </component>

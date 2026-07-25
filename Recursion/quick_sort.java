@@ -1,5 +1,5 @@
 import java.util.*;
-public class main{
+public class quick_sort{
 	
 	static void quicksort(int[] arr,int low,int high){
 		if(low>=high){

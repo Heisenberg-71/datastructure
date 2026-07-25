@@ -1,5 +1,5 @@
 import java.util.*;
-public class main{
+public class Rotated_Binary_Search{
 	
 	static int search(int[] arr,int target ,int s,int e){
 		if(s>e){

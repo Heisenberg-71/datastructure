@@ -1,5 +1,5 @@
 import java.util.*;
-public class main{
+public class Skip_String{
 	public static void skip(String p,String up){
 		if(up.isEmpty()){
 			System.out.println(p);

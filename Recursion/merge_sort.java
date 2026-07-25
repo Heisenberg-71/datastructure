@@ -1,5 +1,5 @@
 import java.util.*;
-public class main{
+public class merge_sort{
 	static int[] mergesort1(int[] arr){
 		if(arr.length==1){
 			return arr;
@@ -37,7 +37,7 @@ public class main{
 		if(e-s==1){
 			return;
 		}
-		int mid=(s+e)/2;
+		int mid=s+(e-s)/2;
 		mergesortInPace(arr,s,mid);
 		mergesortInPace(arr,mid,e);
 		

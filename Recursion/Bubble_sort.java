@@ -1,5 +1,5 @@
 import java.util.*;
-public class main{
+public class Bubble_sort{
 	static void bubbleSort(int[] arr,int r,int c){
 		if(r==0){
 			return;

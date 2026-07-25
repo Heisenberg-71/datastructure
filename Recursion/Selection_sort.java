@@ -1,5 +1,5 @@
 import java.util.*;
-public class main{
+public class Selection_sort{
 	static void SelectionSort(int[] arr,int r,int c,int max){
 		if(r==0){
 			return;

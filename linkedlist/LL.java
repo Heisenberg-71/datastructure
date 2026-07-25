@@ -117,7 +117,7 @@ public class LL {
         Node prev=null;
         Node cur=head;
         while(cur!=null){
-            ListNode next=cur.next;
+            Node next=cur.next;
             cur.next=prev;
             prev=cur;
             cur=next;

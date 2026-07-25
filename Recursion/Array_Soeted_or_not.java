@@ -1,5 +1,5 @@
 
-public class main{
+public class Array_Soeted_or_not{
 	static boolean soted_or_not(int[] arr,int i){
 		if(i==arr.length-1){
 			return true;

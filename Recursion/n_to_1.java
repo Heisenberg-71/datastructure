@@ -1,5 +1,5 @@
 import java.util.*;
-public class main{
+public class n_to_1{
 	static void n_to_1(int n){
 		if(n==0){
 			return;

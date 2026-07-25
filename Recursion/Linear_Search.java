@@ -1,5 +1,5 @@
 import java.util.*;
-public class main{
+public class Linear_Search{
 	static boolean find(int[] arr,int target,int i){
 		if(i==arr.length){
 			return false;
@@ -35,7 +35,7 @@ public class main{
 		if(arr[i]==target){
 			list.add(i);
 		}
-		ArrayList<Integer> ansFromBelowCalls= findAllIndex(arr,target,i+1,list);
+		List<Integer> ansFromBelowCalls= findAllIndex(arr,target,i+1,list);
 		
 		 list.addAll(ansFromBelowCalls);
 		 

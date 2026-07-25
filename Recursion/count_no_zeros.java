@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class main{
+public class count_no_zeros{
 	static int count_no_zeros(int n,int c){
 		if(n==0){
 			return c;

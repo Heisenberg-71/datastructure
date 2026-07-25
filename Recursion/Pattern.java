@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class main{
+public class Pattern{
 	static void triangle1(int r,int c){
 		if(r==0){
 			return;

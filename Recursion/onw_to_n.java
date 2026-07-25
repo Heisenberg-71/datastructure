@@ -1,5 +1,4 @@
-import java.util.*;
-public class main{
+public class onw_to_n{
 	static void one_to_n(int n){
 		if(n==0){
 			return;

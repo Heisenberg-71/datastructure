@@ -1,5 +1,5 @@
 import java.util.*;
-public class main{
+public class Reverse_Number{
 	static int reverse_number1(int n,int sum){
         if(n%10==n){
             return (sum*10)+n;
