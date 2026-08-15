@@ -59,7 +59,7 @@ public class TriangleCounter {
                 {3, 4}, {4, 5}, {5, 6}, {6, 3}
         };
 
-        System.out.println("Number of triangles in Graph 1: " + countTriangles(graph1)); // Output: 3
-        System.out.println("Number of triangles in Graph 2: " + countTriangles(graph2)); // Output: 1
+        System.out.println("Number of triangles in MaxLengthGraph 1: " + countTriangles(graph1)); // Output: 3
+        System.out.println("Number of triangles in MaxLengthGraph 2: " + countTriangles(graph2)); // Output: 1
     }
 }
